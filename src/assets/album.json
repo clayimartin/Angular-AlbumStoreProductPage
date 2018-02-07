@@ -1,8 +1,8 @@
 {
   "id": 1,
-  "artist": "The Prependers",
+  "artist": "The Prependers - artist",
   "album": {
-    "name": "Opacity Zero",
+    "name": "Opacity Zero - name",
     "releaseDate": "September 25, 2014",
     "coverImage": "assets/opacity-zero.jpg",
     "tracks": [
